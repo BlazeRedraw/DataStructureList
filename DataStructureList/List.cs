@@ -2,7 +2,7 @@
 {
     public class List
     {
-        private Node firstElement;
+        public Node firstElement;
         public List list;
         public Node lastElement;
 
